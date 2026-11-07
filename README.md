@@ -252,8 +252,7 @@ Upstream (c) its contributors under Apache-2.0 - see `UPSTREAM_CLONE/LICENSE`. T
 ## Benchmarks
 
 Measured by the Anticloud assurance suite. Every value below is read from this
-project's `BENCH.json`, produced by a real run — the SHA3-256 of that file is
-`0cc32e6af62fe95927494ecee692252a7ac331bac9a44992bacedac6dc7bd9b1`.
+project's `BENCH.json`, produced by a real run — the SHA3-256 of `BENCH.json`: `f0f97a9222f5f0f65ca6e2521d7b8fdcf91e7a8c0f9feaf90649738b72736a93`.
 
 | Framework | Controls | Evidence | Coverage | Result |
 |---|---|---|---|---|
@@ -302,3 +301,8 @@ makes the claim checkable.
 | ORCID | 0009-0009-2233-6107 | Permanent researcher ID |
 | Kaggle | pax-millennium-20 | Reproducible T4 benchmark run |
 
+
+
+## License
+
+See project documentation for details.
